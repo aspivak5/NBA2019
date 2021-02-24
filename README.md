@@ -22,8 +22,10 @@ My group decided to create 3 visualizations for this project:
 ## Preview
 Bubble chart
 ![Preview](bubblechart.png)
+
 Chord chart
 ![Preview](chordchart.png)
+
 Shot chart
 ![Preview](Shotchart.png)
 

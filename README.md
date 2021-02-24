@@ -1,4 +1,4 @@
-# Leaflet-Challenge
+# NBA 2018-2019
 
 ## Table of Contents
 * [Description](#description)
@@ -20,9 +20,14 @@ My group decided to create 3 visualizations for this project:
 
 
 ## Preview
+Bubble chart
 ![Preview](bubblechart.png)
+Chord chart
+![Preview](chordchart.png)
+Shot chart
+![Preview](Shotchart.png)
 
-
+Group members: Jeremy Kardash, Aaron Spivak, Matt Davies, Jasper Parson 
 ## More Info
 Github: https://github.com/aspivak5
 

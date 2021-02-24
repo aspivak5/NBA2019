@@ -30,6 +30,8 @@ Shot chart
 ![Preview](Shotchart.png)
 
 Group members: Jeremy Kardash, Aaron Spivak, Matt Davies, Jasper Parson 
+## Link to App
+ https://nba2018-2019.herokuapp.com/
 ## More Info
 Github: https://github.com/aspivak5
 

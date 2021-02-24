@@ -14,9 +14,9 @@ Link to dataset: Script with load to a postgresSQL heroku database
 
 ## Your-Task
 My group decided to create 3 visualizations for this project:
-1)Chord chart- This chart showed trades between teams during the 2018-2019 seasos. You can hover over a team and the chord will connect with the team it traded with. The width of the chord indicated the number of players involved. ie. wider= more players involved 
-2)Interactive Bubble chart - User is able to select stats from dropdown menu and the chart will update to the selected stats. It compared selected stat categories for all the players that played during the season. Each dot is a different player and can be hovered over for additional information.
-3)Player shot chart - User can select the player to see their player info, season stats, shot chart and Game log for the player
+1. Chord chart- This chart showed trades between teams during the 2018-2019 seasos. You can hover over a team and the chord will connect with the team it traded with. The width of the chord indicated the number of players involved. ie. wider= more players involved 
+2. Interactive Bubble chart - User is able to select stats from dropdown menu and the chart will update to the selected stats. It compared selected stat categories for all the players that played during the season. Each dot is a different player and can be hovered over for additional information.
+3. Player shot chart - User can select the player to see their player info, season stats, shot chart and Game log for the player
 
 
 ## Preview
